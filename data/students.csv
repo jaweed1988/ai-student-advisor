@@ -1,0 +1,501 @@
+student_id,name,department,gpa,attendance_pct,assignments_completed,lms_logins_per_week,financial_hold,credits_this_term
+STU00001,TestFirstName1 TestLastName1,Engineering,3.01,98.5,73.9,4.0,True,4.0
+STU00002,TestFirstName2 TestLastName2,Business Administration,2.07,91.4,61.9,4.0,False,6.0
+STU00003,TestFirstName3 TestLastName3,Social Work,3.33,67.2,67.5,3.0,False,18.0
+STU00004,TestFirstName4 TestLastName4,Arts & Humanities,3.46,55.5,86.4,12.0,False,14.0
+STU00005,TestFirstName5 TestLastName5,Social Work,1.43,33.5,75.1,2.0,False,15.0
+STU00006,TestFirstName6 TestLastName6,Nursing,1.89,69.8,81.1,5.0,False,6.0
+STU00007,TestFirstName7 TestLastName7,Nursing,2.89,100.0,87.1,10.0,False,4.0
+STU00008,TestFirstName8 TestLastName8,Computer Science,2.58,84.5,68.3,3.0,False,7.0
+STU00009,TestFirstName9 TestLastName9,Education,2.79,69.6,88.6,5.0,False,16.0
+STU00010,TestFirstName10 TestLastName10,Nursing,2.2,85.0,81.8,4.0,False,11.0
+STU00011,TestFirstName11 TestLastName11,Arts & Humanities,3.42,54.6,52.8,6.0,False,15.0
+STU00012,TestFirstName12 TestLastName12,Social Work,3.34,73.5,100.0,6.0,True,10.0
+STU00013,TestFirstName13 TestLastName13,Business Administration,2.85,79.5,66.0,0.0,False,10.0
+STU00014,TestFirstName14 TestLastName14,Arts & Humanities,3.59,76.7,45.2,3.0,False,12.0
+STU00015,TestFirstName15 TestLastName15,Business Administration,3.13,89.9,56.2,5.0,False,18.0
+STU00016,TestFirstName16 TestLastName16,Engineering,2.2,83.2,56.6,4.0,False,9.0
+STU00017,TestFirstName17 TestLastName17,Engineering,3.06,88.0,75.9,9.0,False,12.0
+STU00018,TestFirstName18 TestLastName18,Arts & Humanities,2.13,67.7,70.1,4.0,False,17.0
+STU00019,TestFirstName19 TestLastName19,Education,3.41,91.5,68.9,6.0,False,8.0
+STU00020,TestFirstName20 TestLastName20,Arts & Humanities,2.77,100.0,86.2,5.0,False,16.0
+STU00021,TestFirstName21 TestLastName21,Psychology,2.67,63.4,81.1,7.0,False,11.0
+STU00022,TestFirstName22 TestLastName22,Social Work,2.32,64.7,80.7,4.0,False,17.0
+STU00023,TestFirstName23 TestLastName23,Social Work,3.66,98.0,82.4,9.0,False,10.0
+STU00024,TestFirstName24 TestLastName24,Social Work,2.69,75.1,86.1,3.0,False,13.0
+STU00025,TestFirstName25 TestLastName25,Engineering,2.5,99.1,37.1,8.0,False,8.0
+STU00026,TestFirstName26 TestLastName26,Engineering,2.55,71.4,68.4,10.0,True,13.0
+STU00027,TestFirstName27 TestLastName27,Arts & Humanities,3.17,99.8,35.8,8.0,False,8.0
+STU00028,TestFirstName28 TestLastName28,Social Work,3.06,80.0,75.6,4.0,False,12.0
+STU00029,TestFirstName29 TestLastName29,Arts & Humanities,3.09,81.9,74.9,4.0,False,15.0
+STU00030,TestFirstName30 TestLastName30,Psychology,3.1,100.0,93.8,3.0,False,9.0
+STU00031,TestFirstName31 TestLastName31,Arts & Humanities,4.0,72.6,96.4,5.0,True,9.0
+STU00032,TestFirstName32 TestLastName32,Education,2.52,63.9,78.6,5.0,False,8.0
+STU00033,TestFirstName33 TestLastName33,Education,2.44,71.3,66.0,5.0,False,14.0
+STU00034,TestFirstName34 TestLastName34,Business Administration,2.23,84.8,83.7,7.0,False,12.0
+STU00035,TestFirstName35 TestLastName35,Psychology,3.23,54.5,65.5,5.0,True,11.0
+STU00036,TestFirstName36 TestLastName36,Education,3.59,87.6,75.0,2.0,False,3.0
+STU00037,TestFirstName37 TestLastName37,Social Work,2.72,69.9,92.8,2.0,False,4.0
+STU00038,TestFirstName38 TestLastName38,Arts & Humanities,2.21,95.2,65.0,8.0,False,3.0
+STU00039,TestFirstName39 TestLastName39,Nursing,2.22,42.1,89.5,5.0,False,16.0
+STU00040,TestFirstName40 TestLastName40,Nursing,3.26,66.2,87.2,5.0,False,16.0
+STU00041,TestFirstName41 TestLastName41,Arts & Humanities,3.32,52.7,57.8,3.0,False,4.0
+STU00042,TestFirstName42 TestLastName42,Arts & Humanities,3.18,65.6,92.5,7.0,False,3.0
+STU00043,TestFirstName43 TestLastName43,Business Administration,2.33,81.7,87.6,5.0,False,15.0
+STU00044,TestFirstName44 TestLastName44,Engineering,2.96,75.3,76.8,3.0,False,11.0
+STU00045,TestFirstName45 TestLastName45,Arts & Humanities,2.88,74.2,61.3,7.0,False,7.0
+STU00046,TestFirstName46 TestLastName46,Business Administration,2.95,75.6,59.5,6.0,False,12.0
+STU00047,TestFirstName47 TestLastName47,Social Work,3.41,81.1,65.3,7.0,False,6.0
+STU00048,TestFirstName48 TestLastName48,Computer Science,2.96,62.9,84.8,2.0,False,6.0
+STU00049,TestFirstName49 TestLastName49,Business Administration,3.28,88.6,57.8,4.0,True,8.0
+STU00050,TestFirstName50 TestLastName50,Social Work,2.85,87.9,82.9,4.0,False,17.0
+STU00051,TestFirstName51 TestLastName51,Psychology,3.0,83.8,52.6,9.0,False,15.0
+STU00052,TestFirstName52 TestLastName52,Psychology,3.24,86.3,71.3,6.0,False,6.0
+STU00053,TestFirstName53 TestLastName53,Social Work,1.78,82.4,77.0,7.0,False,11.0
+STU00054,TestFirstName54 TestLastName54,Nursing,2.58,100.0,100.0,9.0,False,17.0
+STU00055,TestFirstName55 TestLastName55,Psychology,2.47,76.7,50.2,4.0,False,18.0
+STU00056,TestFirstName56 TestLastName56,Psychology,2.35,73.4,100.0,6.0,False,15.0
+STU00057,TestFirstName57 TestLastName57,Education,2.61,66.7,77.7,4.0,False,5.0
+STU00058,TestFirstName58 TestLastName58,Nursing,3.85,62.5,82.4,2.0,False,6.0
+STU00059,TestFirstName59 TestLastName59,Education,2.19,59.3,77.1,5.0,False,6.0
+STU00060,TestFirstName60 TestLastName60,Engineering,3.48,64.7,83.0,3.0,True,5.0
+STU00061,TestFirstName61 TestLastName61,Psychology,1.62,76.9,72.2,6.0,False,5.0
+STU00062,TestFirstName62 TestLastName62,Social Work,2.57,83.0,100.0,5.0,False,8.0
+STU00063,TestFirstName63 TestLastName63,Engineering,2.91,78.8,66.8,3.0,False,11.0
+STU00064,TestFirstName64 TestLastName64,Education,3.21,66.5,95.4,7.0,False,9.0
+STU00065,TestFirstName65 TestLastName65,Arts & Humanities,3.3,91.5,63.4,2.0,False,9.0
+STU00066,TestFirstName66 TestLastName66,Social Work,3.36,89.1,73.9,4.0,False,6.0
+STU00067,TestFirstName67 TestLastName67,Arts & Humanities,2.56,75.6,55.7,3.0,False,5.0
+STU00068,TestFirstName68 TestLastName68,Psychology,2.48,68.2,83.2,7.0,False,18.0
+STU00069,TestFirstName69 TestLastName69,Nursing,3.4,86.2,100.0,5.0,False,12.0
+STU00070,TestFirstName70 TestLastName70,Arts & Humanities,2.67,80.8,73.6,3.0,False,6.0
+STU00071,TestFirstName71 TestLastName71,Education,1.91,56.3,71.5,7.0,False,15.0
+STU00072,TestFirstName72 TestLastName72,Business Administration,2.01,77.0,54.9,6.0,True,16.0
+STU00073,TestFirstName73 TestLastName73,Nursing,2.16,81.9,70.9,7.0,False,18.0
+STU00074,TestFirstName74 TestLastName74,Nursing,3.15,64.5,46.3,3.0,False,5.0
+STU00075,TestFirstName75 TestLastName75,Social Work,2.9,80.8,58.6,7.0,False,13.0
+STU00076,TestFirstName76 TestLastName76,Computer Science,3.28,56.2,79.1,5.0,True,18.0
+STU00077,TestFirstName77 TestLastName77,Education,2.5,98.0,98.7,2.0,False,15.0
+STU00078,TestFirstName78 TestLastName78,Psychology,2.91,96.7,100.0,4.0,True,6.0
+STU00079,TestFirstName79 TestLastName79,Computer Science,3.24,74.2,64.4,2.0,False,17.0
+STU00080,TestFirstName80 TestLastName80,Psychology,2.58,83.5,100.0,3.0,False,9.0
+STU00081,TestFirstName81 TestLastName81,Social Work,3.12,41.9,79.4,6.0,False,10.0
+STU00082,TestFirstName82 TestLastName82,Education,2.34,60.7,72.3,2.0,False,11.0
+STU00083,TestFirstName83 TestLastName83,Psychology,2.55,73.6,82.8,4.0,False,15.0
+STU00084,TestFirstName84 TestLastName84,Nursing,2.53,61.9,76.1,7.0,True,4.0
+STU00085,TestFirstName85 TestLastName85,Business Administration,1.96,88.7,77.0,5.0,False,11.0
+STU00086,TestFirstName86 TestLastName86,Computer Science,3.14,100.0,67.7,6.0,False,16.0
+STU00087,TestFirstName87 TestLastName87,Nursing,2.47,60.4,49.8,3.0,False,11.0
+STU00088,TestFirstName88 TestLastName88,Education,2.81,65.4,47.2,5.0,False,7.0
+STU00089,TestFirstName89 TestLastName89,Computer Science,3.14,81.5,86.8,8.0,False,3.0
+STU00090,TestFirstName90 TestLastName90,Arts & Humanities,3.11,100.0,70.0,2.0,True,11.0
+STU00091,TestFirstName91 TestLastName91,Psychology,3.27,59.7,64.3,4.0,True,14.0
+STU00092,TestFirstName92 TestLastName92,Nursing,2.73,81.7,75.2,7.0,False,11.0
+STU00093,TestFirstName93 TestLastName93,Arts & Humanities,2.5,100.0,89.3,3.0,False,18.0
+STU00094,TestFirstName94 TestLastName94,Business Administration,2.74,53.2,78.2,3.0,False,12.0
+STU00095,TestFirstName95 TestLastName95,Arts & Humanities,1.62,58.8,63.2,8.0,True,11.0
+STU00096,TestFirstName96 TestLastName96,Nursing,1.79,71.6,97.1,3.0,False,3.0
+STU00097,TestFirstName97 TestLastName97,Engineering,1.87,70.2,100.0,3.0,False,11.0
+STU00098,TestFirstName98 TestLastName98,Engineering,2.1,90.2,83.9,2.0,True,5.0
+STU00099,TestFirstName99 TestLastName99,Arts & Humanities,3.08,81.6,92.5,4.0,True,14.0
+STU00100,TestFirstName100 TestLastName100,Nursing,2.17,51.4,97.4,2.0,False,5.0
+STU00101,TestFirstName101 TestLastName101,Arts & Humanities,2.54,85.7,95.3,9.0,False,17.0
+STU00102,TestFirstName102 TestLastName102,Nursing,3.71,69.3,86.1,6.0,False,7.0
+STU00103,TestFirstName103 TestLastName103,Nursing,2.55,97.1,85.8,4.0,False,9.0
+STU00104,TestFirstName104 TestLastName104,Education,3.32,68.6,84.4,6.0,False,5.0
+STU00105,TestFirstName105 TestLastName105,Education,2.15,68.5,55.2,2.0,False,6.0
+STU00106,TestFirstName106 TestLastName106,Nursing,2.66,86.1,87.6,6.0,False,17.0
+STU00107,TestFirstName107 TestLastName107,Business Administration,2.13,89.4,50.6,4.0,False,7.0
+STU00108,TestFirstName108 TestLastName108,Engineering,2.56,84.7,60.7,9.0,False,11.0
+STU00109,TestFirstName109 TestLastName109,Psychology,3.39,52.7,98.5,6.0,False,18.0
+STU00110,TestFirstName110 TestLastName110,Computer Science,1.59,86.1,90.1,5.0,True,12.0
+STU00111,TestFirstName111 TestLastName111,Computer Science,3.1,62.5,100.0,6.0,False,3.0
+STU00112,TestFirstName112 TestLastName112,Arts & Humanities,2.97,81.5,70.1,5.0,True,8.0
+STU00113,TestFirstName113 TestLastName113,Computer Science,2.38,56.6,54.3,6.0,False,9.0
+STU00114,TestFirstName114 TestLastName114,Engineering,1.79,84.7,70.7,6.0,False,7.0
+STU00115,TestFirstName115 TestLastName115,Social Work,2.85,65.9,76.8,4.0,False,6.0
+STU00116,TestFirstName116 TestLastName116,Nursing,2.43,58.8,76.4,7.0,False,11.0
+STU00117,TestFirstName117 TestLastName117,Engineering,2.96,88.7,95.4,4.0,False,9.0
+STU00118,TestFirstName118 TestLastName118,Computer Science,2.82,81.6,68.5,4.0,False,7.0
+STU00119,TestFirstName119 TestLastName119,Social Work,3.92,68.8,81.3,8.0,False,9.0
+STU00120,TestFirstName120 TestLastName120,Education,2.63,99.8,57.2,6.0,False,8.0
+STU00121,TestFirstName121 TestLastName121,Social Work,2.08,71.4,83.1,2.0,False,6.0
+STU00122,TestFirstName122 TestLastName122,Social Work,2.93,78.5,75.1,9.0,False,10.0
+STU00123,TestFirstName123 TestLastName123,Nursing,2.95,82.0,61.5,5.0,False,18.0
+STU00124,TestFirstName124 TestLastName124,Computer Science,3.75,68.7,70.8,3.0,False,11.0
+STU00125,TestFirstName125 TestLastName125,Nursing,3.38,85.1,71.7,7.0,False,12.0
+STU00126,TestFirstName126 TestLastName126,Business Administration,3.05,70.0,70.1,3.0,False,18.0
+STU00127,TestFirstName127 TestLastName127,Psychology,3.82,71.8,100.0,0.0,False,12.0
+STU00128,TestFirstName128 TestLastName128,Business Administration,1.97,98.4,73.2,8.0,False,6.0
+STU00129,TestFirstName129 TestLastName129,Arts & Humanities,2.35,62.4,70.6,5.0,False,9.0
+STU00130,TestFirstName130 TestLastName130,Psychology,2.15,41.8,37.2,4.0,False,10.0
+STU00131,TestFirstName131 TestLastName131,Nursing,2.53,100.0,58.9,2.0,False,10.0
+STU00132,TestFirstName132 TestLastName132,Arts & Humanities,1.84,100.0,70.3,4.0,False,5.0
+STU00133,TestFirstName133 TestLastName133,Social Work,3.24,71.9,62.7,6.0,False,4.0
+STU00134,TestFirstName134 TestLastName134,Engineering,2.64,48.9,99.9,5.0,True,8.0
+STU00135,TestFirstName135 TestLastName135,Business Administration,1.77,73.3,72.0,3.0,True,17.0
+STU00136,TestFirstName136 TestLastName136,Nursing,2.09,73.7,98.2,4.0,False,14.0
+STU00137,TestFirstName137 TestLastName137,Psychology,3.02,75.2,76.1,1.0,False,16.0
+STU00138,TestFirstName138 TestLastName138,Social Work,3.39,61.3,75.7,8.0,False,5.0
+STU00139,TestFirstName139 TestLastName139,Nursing,4.0,86.7,73.4,6.0,False,9.0
+STU00140,TestFirstName140 TestLastName140,Education,4.0,85.9,75.1,5.0,False,12.0
+STU00141,TestFirstName141 TestLastName141,Nursing,3.09,55.6,100.0,5.0,False,9.0
+STU00142,TestFirstName142 TestLastName142,Business Administration,2.11,88.5,33.2,4.0,False,9.0
+STU00143,TestFirstName143 TestLastName143,Engineering,1.31,100.0,39.0,3.0,False,8.0
+STU00144,TestFirstName144 TestLastName144,Business Administration,2.99,80.6,65.2,5.0,True,3.0
+STU00145,TestFirstName145 TestLastName145,Engineering,2.23,72.9,75.3,4.0,True,16.0
+STU00146,TestFirstName146 TestLastName146,Nursing,2.51,75.9,87.4,8.0,False,17.0
+STU00147,TestFirstName147 TestLastName147,Nursing,2.37,87.2,83.5,7.0,False,4.0
+STU00148,TestFirstName148 TestLastName148,Social Work,2.7,52.0,68.1,4.0,False,9.0
+STU00149,TestFirstName149 TestLastName149,Nursing,3.55,80.5,93.3,5.0,False,11.0
+STU00150,TestFirstName150 TestLastName150,Education,2.91,72.1,93.5,11.0,True,15.0
+STU00151,TestFirstName151 TestLastName151,Education,2.69,100.0,78.3,5.0,False,18.0
+STU00152,TestFirstName152 TestLastName152,Education,2.08,75.4,92.3,3.0,False,9.0
+STU00153,TestFirstName153 TestLastName153,Nursing,1.63,100.0,79.9,8.0,False,14.0
+STU00154,TestFirstName154 TestLastName154,Social Work,2.46,61.4,64.9,5.0,False,17.0
+STU00155,TestFirstName155 TestLastName155,Business Administration,2.76,86.8,87.6,7.0,False,16.0
+STU00156,TestFirstName156 TestLastName156,Nursing,4.0,82.8,77.0,4.0,False,7.0
+STU00157,TestFirstName157 TestLastName157,Social Work,2.89,65.0,75.0,5.0,True,16.0
+STU00158,TestFirstName158 TestLastName158,Nursing,3.49,80.7,100.0,6.0,False,9.0
+STU00159,TestFirstName159 TestLastName159,Education,2.45,96.2,30.9,6.0,False,3.0
+STU00160,TestFirstName160 TestLastName160,Computer Science,1.97,73.1,49.5,3.0,False,15.0
+STU00161,TestFirstName161 TestLastName161,Psychology,2.12,52.6,53.6,7.0,False,16.0
+STU00162,TestFirstName162 TestLastName162,Social Work,2.29,77.7,68.5,4.0,False,8.0
+STU00163,TestFirstName163 TestLastName163,Education,4.0,64.5,70.4,3.0,False,10.0
+STU00164,TestFirstName164 TestLastName164,Psychology,2.23,72.9,47.9,4.0,False,8.0
+STU00165,TestFirstName165 TestLastName165,Social Work,3.39,76.8,57.3,10.0,False,4.0
+STU00166,TestFirstName166 TestLastName166,Nursing,2.17,52.4,59.5,4.0,False,18.0
+STU00167,TestFirstName167 TestLastName167,Engineering,3.45,53.8,100.0,5.0,False,3.0
+STU00168,TestFirstName168 TestLastName168,Computer Science,3.07,85.2,100.0,4.0,True,11.0
+STU00169,TestFirstName169 TestLastName169,Education,2.69,70.2,67.6,6.0,True,3.0
+STU00170,TestFirstName170 TestLastName170,Education,2.77,39.5,68.5,2.0,False,14.0
+STU00171,TestFirstName171 TestLastName171,Social Work,2.34,89.8,54.3,6.0,False,17.0
+STU00172,TestFirstName172 TestLastName172,Education,3.11,82.1,40.7,3.0,False,13.0
+STU00173,TestFirstName173 TestLastName173,Business Administration,2.48,67.3,72.9,9.0,True,12.0
+STU00174,TestFirstName174 TestLastName174,Education,1.94,58.2,57.0,3.0,False,16.0
+STU00175,TestFirstName175 TestLastName175,Social Work,1.91,90.5,73.5,4.0,False,18.0
+STU00176,TestFirstName176 TestLastName176,Business Administration,2.92,83.2,46.2,6.0,False,16.0
+STU00177,TestFirstName177 TestLastName177,Engineering,3.91,100.0,61.3,7.0,True,6.0
+STU00178,TestFirstName178 TestLastName178,Arts & Humanities,2.91,84.3,77.7,4.0,False,12.0
+STU00179,TestFirstName179 TestLastName179,Engineering,2.72,83.8,81.6,7.0,False,16.0
+STU00180,TestFirstName180 TestLastName180,Social Work,3.0,75.5,82.5,9.0,False,7.0
+STU00181,TestFirstName181 TestLastName181,Psychology,3.71,90.3,51.2,2.0,False,13.0
+STU00182,TestFirstName182 TestLastName182,Education,2.95,87.4,90.4,6.0,True,3.0
+STU00183,TestFirstName183 TestLastName183,Education,2.51,96.8,60.6,9.0,False,17.0
+STU00184,TestFirstName184 TestLastName184,Education,3.57,70.2,86.4,10.0,False,12.0
+STU00185,TestFirstName185 TestLastName185,Social Work,3.1,71.5,74.8,5.0,False,14.0
+STU00186,TestFirstName186 TestLastName186,Arts & Humanities,3.88,70.8,50.2,6.0,False,16.0
+STU00187,TestFirstName187 TestLastName187,Nursing,2.93,89.9,69.3,7.0,False,6.0
+STU00188,TestFirstName188 TestLastName188,Arts & Humanities,1.94,100.0,81.6,6.0,False,10.0
+STU00189,TestFirstName189 TestLastName189,Education,1.84,71.1,86.0,8.0,True,16.0
+STU00190,TestFirstName190 TestLastName190,Psychology,3.96,71.6,72.5,4.0,False,5.0
+STU00191,TestFirstName191 TestLastName191,Nursing,4.0,82.7,100.0,7.0,False,16.0
+STU00192,TestFirstName192 TestLastName192,Engineering,2.67,74.3,93.1,4.0,False,7.0
+STU00193,TestFirstName193 TestLastName193,Education,2.53,92.3,70.4,4.0,False,12.0
+STU00194,TestFirstName194 TestLastName194,Nursing,3.82,44.2,88.5,5.0,False,11.0
+STU00195,TestFirstName195 TestLastName195,Nursing,2.03,65.6,100.0,5.0,False,13.0
+STU00196,TestFirstName196 TestLastName196,Social Work,2.17,66.3,100.0,5.0,False,16.0
+STU00197,TestFirstName197 TestLastName197,Engineering,3.25,43.2,52.9,5.0,False,8.0
+STU00198,TestFirstName198 TestLastName198,Education,2.52,63.5,58.3,5.0,False,5.0
+STU00199,TestFirstName199 TestLastName199,Computer Science,2.8,64.3,100.0,2.0,False,9.0
+STU00200,TestFirstName200 TestLastName200,Computer Science,2.69,75.0,56.0,8.0,False,12.0
+STU00201,TestFirstName201 TestLastName201,Social Work,3.04,94.7,51.2,3.0,False,15.0
+STU00202,TestFirstName202 TestLastName202,Business Administration,3.79,74.3,66.2,8.0,True,15.0
+STU00203,TestFirstName203 TestLastName203,Social Work,2.86,62.5,82.6,5.0,False,8.0
+STU00204,TestFirstName204 TestLastName204,Arts & Humanities,3.25,77.1,73.2,3.0,False,17.0
+STU00205,TestFirstName205 TestLastName205,Engineering,1.36,93.7,63.3,7.0,False,4.0
+STU00206,TestFirstName206 TestLastName206,Arts & Humanities,2.77,63.4,62.9,10.0,False,4.0
+STU00207,TestFirstName207 TestLastName207,Engineering,2.21,64.3,62.2,3.0,False,3.0
+STU00208,TestFirstName208 TestLastName208,Arts & Humanities,1.95,86.4,59.2,3.0,False,17.0
+STU00209,TestFirstName209 TestLastName209,Business Administration,2.19,74.7,100.0,3.0,False,5.0
+STU00210,TestFirstName210 TestLastName210,Engineering,2.57,87.7,80.4,7.0,False,12.0
+STU00211,TestFirstName211 TestLastName211,Engineering,3.44,77.8,91.0,8.0,False,16.0
+STU00212,TestFirstName212 TestLastName212,Social Work,1.87,88.5,66.2,7.0,False,15.0
+STU00213,TestFirstName213 TestLastName213,Computer Science,2.82,62.5,71.7,5.0,False,18.0
+STU00214,TestFirstName214 TestLastName214,Social Work,2.46,77.8,62.2,3.0,False,3.0
+STU00215,TestFirstName215 TestLastName215,Computer Science,2.57,74.8,27.3,8.0,False,9.0
+STU00216,TestFirstName216 TestLastName216,Nursing,3.5,59.8,50.2,4.0,False,11.0
+STU00217,TestFirstName217 TestLastName217,Psychology,3.18,54.5,42.4,5.0,False,14.0
+STU00218,TestFirstName218 TestLastName218,Business Administration,3.74,88.3,34.5,2.0,False,12.0
+STU00219,TestFirstName219 TestLastName219,Engineering,2.69,72.7,53.5,2.0,False,11.0
+STU00220,TestFirstName220 TestLastName220,Arts & Humanities,2.31,62.7,98.8,3.0,True,7.0
+STU00221,TestFirstName221 TestLastName221,Social Work,2.64,76.6,74.2,3.0,False,4.0
+STU00222,TestFirstName222 TestLastName222,Computer Science,2.97,94.9,98.2,2.0,False,9.0
+STU00223,TestFirstName223 TestLastName223,Psychology,2.92,43.8,82.4,3.0,True,7.0
+STU00224,TestFirstName224 TestLastName224,Psychology,2.04,55.6,89.1,6.0,False,11.0
+STU00225,TestFirstName225 TestLastName225,Computer Science,2.86,64.2,58.8,6.0,False,15.0
+STU00226,TestFirstName226 TestLastName226,Education,2.96,99.9,84.4,6.0,False,11.0
+STU00227,TestFirstName227 TestLastName227,Psychology,4.0,82.2,88.1,4.0,False,12.0
+STU00228,TestFirstName228 TestLastName228,Education,4.0,89.5,64.6,4.0,False,3.0
+STU00229,TestFirstName229 TestLastName229,Nursing,2.2,60.9,85.1,2.0,False,13.0
+STU00230,TestFirstName230 TestLastName230,Nursing,2.6,61.2,85.2,7.0,False,10.0
+STU00231,TestFirstName231 TestLastName231,Education,1.78,84.7,65.1,5.0,False,4.0
+STU00232,TestFirstName232 TestLastName232,Education,2.39,78.9,54.8,2.0,False,6.0
+STU00233,TestFirstName233 TestLastName233,Business Administration,3.02,86.2,53.7,4.0,False,15.0
+STU00234,TestFirstName234 TestLastName234,Business Administration,3.64,75.2,76.6,7.0,False,17.0
+STU00235,TestFirstName235 TestLastName235,Psychology,2.29,82.2,80.9,2.0,False,11.0
+STU00236,TestFirstName236 TestLastName236,Social Work,2.34,80.4,60.7,6.0,False,18.0
+STU00237,TestFirstName237 TestLastName237,Business Administration,1.3,89.7,75.5,4.0,True,5.0
+STU00238,TestFirstName238 TestLastName238,Business Administration,2.69,90.1,85.3,8.0,False,7.0
+STU00239,TestFirstName239 TestLastName239,Social Work,2.06,53.7,86.1,5.0,False,17.0
+STU00240,TestFirstName240 TestLastName240,Education,2.43,44.3,100.0,3.0,False,5.0
+STU00241,TestFirstName241 TestLastName241,Arts & Humanities,2.19,93.0,98.0,8.0,False,13.0
+STU00242,TestFirstName242 TestLastName242,Social Work,2.73,95.8,57.0,6.0,False,6.0
+STU00243,TestFirstName243 TestLastName243,Arts & Humanities,1.57,62.7,100.0,3.0,True,8.0
+STU00244,TestFirstName244 TestLastName244,Business Administration,1.77,50.1,65.4,8.0,False,10.0
+STU00245,TestFirstName245 TestLastName245,Nursing,4.0,79.5,93.8,5.0,False,8.0
+STU00246,TestFirstName246 TestLastName246,Business Administration,1.9,92.0,76.2,4.0,True,16.0
+STU00247,TestFirstName247 TestLastName247,Computer Science,2.03,100.0,67.6,3.0,False,18.0
+STU00248,TestFirstName248 TestLastName248,Social Work,4.0,85.7,42.5,4.0,True,11.0
+STU00249,TestFirstName249 TestLastName249,Education,4.0,72.4,71.9,8.0,False,11.0
+STU00250,TestFirstName250 TestLastName250,Computer Science,1.98,64.6,46.9,6.0,False,3.0
+STU00251,TestFirstName251 TestLastName251,Business Administration,2.54,78.2,92.4,4.0,True,6.0
+STU00252,TestFirstName252 TestLastName252,Business Administration,3.04,73.5,100.0,5.0,False,3.0
+STU00253,TestFirstName253 TestLastName253,Engineering,4.0,62.8,60.7,5.0,False,16.0
+STU00254,TestFirstName254 TestLastName254,Engineering,2.11,100.0,80.4,9.0,False,6.0
+STU00255,TestFirstName255 TestLastName255,Nursing,2.63,100.0,61.9,5.0,False,8.0
+STU00256,TestFirstName256 TestLastName256,Arts & Humanities,3.34,95.0,63.7,8.0,False,16.0
+STU00257,TestFirstName257 TestLastName257,Business Administration,3.1,64.2,88.9,3.0,False,14.0
+STU00258,TestFirstName258 TestLastName258,Psychology,2.54,90.8,74.3,8.0,False,12.0
+STU00259,TestFirstName259 TestLastName259,Engineering,2.71,87.6,100.0,7.0,False,3.0
+STU00260,TestFirstName260 TestLastName260,Engineering,1.84,84.6,66.3,4.0,False,12.0
+STU00261,TestFirstName261 TestLastName261,Social Work,2.63,96.7,93.0,3.0,False,11.0
+STU00262,TestFirstName262 TestLastName262,Arts & Humanities,2.61,87.5,76.8,6.0,False,8.0
+STU00263,TestFirstName263 TestLastName263,Computer Science,2.96,89.1,89.3,4.0,False,14.0
+STU00264,TestFirstName264 TestLastName264,Engineering,2.41,87.6,67.0,5.0,False,17.0
+STU00265,TestFirstName265 TestLastName265,Computer Science,3.13,83.1,74.1,6.0,False,7.0
+STU00266,TestFirstName266 TestLastName266,Engineering,3.51,51.2,72.9,3.0,False,8.0
+STU00267,TestFirstName267 TestLastName267,Psychology,2.91,79.3,60.0,2.0,False,8.0
+STU00268,TestFirstName268 TestLastName268,Engineering,3.05,69.7,86.9,8.0,False,16.0
+STU00269,TestFirstName269 TestLastName269,Nursing,2.84,58.8,86.7,4.0,False,4.0
+STU00270,TestFirstName270 TestLastName270,Nursing,2.8,100.0,85.7,5.0,True,17.0
+STU00271,TestFirstName271 TestLastName271,Nursing,2.29,100.0,100.0,0.0,True,15.0
+STU00272,TestFirstName272 TestLastName272,Nursing,3.02,98.4,100.0,5.0,False,10.0
+STU00273,TestFirstName273 TestLastName273,Nursing,2.73,81.8,68.3,4.0,True,12.0
+STU00274,TestFirstName274 TestLastName274,Education,4.0,98.3,81.7,1.0,True,17.0
+STU00275,TestFirstName275 TestLastName275,Computer Science,3.9,78.2,63.8,5.0,False,15.0
+STU00276,TestFirstName276 TestLastName276,Computer Science,3.07,81.0,75.4,8.0,False,7.0
+STU00277,TestFirstName277 TestLastName277,Psychology,2.27,61.6,64.2,2.0,False,3.0
+STU00278,TestFirstName278 TestLastName278,Education,2.02,84.0,100.0,6.0,False,13.0
+STU00279,TestFirstName279 TestLastName279,Nursing,3.63,78.9,81.5,1.0,False,5.0
+STU00280,TestFirstName280 TestLastName280,Business Administration,2.98,58.5,71.1,5.0,False,4.0
+STU00281,TestFirstName281 TestLastName281,Psychology,3.14,77.2,96.5,6.0,False,18.0
+STU00282,TestFirstName282 TestLastName282,Engineering,1.58,76.8,35.9,3.0,True,10.0
+STU00283,TestFirstName283 TestLastName283,Education,3.45,100.0,38.7,7.0,False,13.0
+STU00284,TestFirstName284 TestLastName284,Business Administration,3.12,91.4,89.3,7.0,False,6.0
+STU00285,TestFirstName285 TestLastName285,Computer Science,2.02,78.2,76.1,2.0,False,4.0
+STU00286,TestFirstName286 TestLastName286,Psychology,2.47,81.7,79.5,4.0,False,4.0
+STU00287,TestFirstName287 TestLastName287,Engineering,2.98,78.7,51.1,2.0,False,8.0
+STU00288,TestFirstName288 TestLastName288,Education,2.84,75.0,74.6,4.0,False,3.0
+STU00289,TestFirstName289 TestLastName289,Psychology,2.6,61.8,100.0,9.0,False,9.0
+STU00290,TestFirstName290 TestLastName290,Nursing,2.73,75.7,89.8,3.0,False,8.0
+STU00291,TestFirstName291 TestLastName291,Business Administration,2.62,66.8,78.1,2.0,False,11.0
+STU00292,TestFirstName292 TestLastName292,Business Administration,2.91,59.2,67.1,4.0,False,12.0
+STU00293,TestFirstName293 TestLastName293,Social Work,3.83,85.7,67.9,8.0,False,7.0
+STU00294,TestFirstName294 TestLastName294,Business Administration,1.0,83.9,36.7,3.0,False,10.0
+STU00295,TestFirstName295 TestLastName295,Psychology,2.63,51.2,79.6,3.0,False,4.0
+STU00296,TestFirstName296 TestLastName296,Social Work,2.92,76.2,90.2,2.0,False,7.0
+STU00297,TestFirstName297 TestLastName297,Arts & Humanities,3.01,92.9,46.6,5.0,False,18.0
+STU00298,TestFirstName298 TestLastName298,Nursing,2.54,93.9,63.1,2.0,False,18.0
+STU00299,TestFirstName299 TestLastName299,Computer Science,1.57,93.4,54.2,1.0,False,10.0
+STU00300,TestFirstName300 TestLastName300,Social Work,3.03,78.6,57.6,8.0,False,18.0
+STU00301,TestFirstName301 TestLastName301,Education,4.0,65.3,76.0,3.0,False,11.0
+STU00302,TestFirstName302 TestLastName302,Nursing,1.73,61.7,37.5,6.0,True,5.0
+STU00303,TestFirstName303 TestLastName303,Psychology,3.4,83.2,86.1,4.0,False,16.0
+STU00304,TestFirstName304 TestLastName304,Business Administration,2.57,83.7,88.6,4.0,False,9.0
+STU00305,TestFirstName305 TestLastName305,Education,2.76,97.3,70.5,1.0,False,12.0
+STU00306,TestFirstName306 TestLastName306,Education,2.06,94.5,30.3,7.0,False,13.0
+STU00307,TestFirstName307 TestLastName307,Nursing,2.57,76.0,57.1,6.0,False,7.0
+STU00308,TestFirstName308 TestLastName308,Engineering,3.71,59.3,97.2,3.0,False,14.0
+STU00309,TestFirstName309 TestLastName309,Nursing,3.21,73.2,25.0,4.0,False,11.0
+STU00310,TestFirstName310 TestLastName310,Computer Science,4.0,81.3,68.7,9.0,False,8.0
+STU00311,TestFirstName311 TestLastName311,Business Administration,3.62,75.0,53.8,6.0,False,7.0
+STU00312,TestFirstName312 TestLastName312,Arts & Humanities,3.11,69.3,89.5,3.0,False,14.0
+STU00313,TestFirstName313 TestLastName313,Engineering,4.0,81.8,62.8,8.0,False,6.0
+STU00314,TestFirstName314 TestLastName314,Business Administration,3.11,70.4,82.3,4.0,False,4.0
+STU00315,TestFirstName315 TestLastName315,Computer Science,3.38,68.6,85.2,3.0,False,17.0
+STU00316,TestFirstName316 TestLastName316,Nursing,2.59,82.7,100.0,6.0,False,8.0
+STU00317,TestFirstName317 TestLastName317,Arts & Humanities,2.85,72.0,71.3,3.0,False,13.0
+STU00318,TestFirstName318 TestLastName318,Engineering,2.31,81.7,81.8,7.0,True,14.0
+STU00319,TestFirstName319 TestLastName319,Arts & Humanities,3.49,82.1,48.3,3.0,False,16.0
+STU00320,TestFirstName320 TestLastName320,Engineering,1.98,60.9,96.4,3.0,False,13.0
+STU00321,TestFirstName321 TestLastName321,Social Work,3.35,70.8,61.3,8.0,False,14.0
+STU00322,TestFirstName322 TestLastName322,Social Work,2.67,99.6,64.9,0.0,False,16.0
+STU00323,TestFirstName323 TestLastName323,Computer Science,3.62,60.6,74.6,5.0,False,18.0
+STU00324,TestFirstName324 TestLastName324,Computer Science,3.33,46.3,46.9,3.0,False,3.0
+STU00325,TestFirstName325 TestLastName325,Arts & Humanities,4.0,50.1,79.1,7.0,False,14.0
+STU00326,TestFirstName326 TestLastName326,Arts & Humanities,3.31,78.4,92.4,9.0,False,5.0
+STU00327,TestFirstName327 TestLastName327,Business Administration,1.7,78.5,80.3,9.0,False,17.0
+STU00328,TestFirstName328 TestLastName328,Education,2.75,76.2,46.4,0.0,False,3.0
+STU00329,TestFirstName329 TestLastName329,Arts & Humanities,1.98,96.2,72.8,8.0,True,6.0
+STU00330,TestFirstName330 TestLastName330,Arts & Humanities,2.44,37.9,88.4,1.0,False,6.0
+STU00331,TestFirstName331 TestLastName331,Nursing,3.86,83.9,41.2,13.0,False,12.0
+STU00332,TestFirstName332 TestLastName332,Social Work,3.25,100.0,55.7,5.0,False,3.0
+STU00333,TestFirstName333 TestLastName333,Education,2.31,61.1,90.8,4.0,False,3.0
+STU00334,TestFirstName334 TestLastName334,Arts & Humanities,2.09,72.3,79.9,3.0,False,11.0
+STU00335,TestFirstName335 TestLastName335,Business Administration,2.82,66.7,82.4,5.0,False,18.0
+STU00336,TestFirstName336 TestLastName336,Psychology,1.95,64.6,100.0,5.0,False,11.0
+STU00337,TestFirstName337 TestLastName337,Computer Science,2.33,73.1,83.4,6.0,False,10.0
+STU00338,TestFirstName338 TestLastName338,Nursing,3.02,99.4,86.8,7.0,False,13.0
+STU00339,TestFirstName339 TestLastName339,Computer Science,3.61,100.0,100.0,10.0,False,11.0
+STU00340,TestFirstName340 TestLastName340,Engineering,3.23,73.0,71.2,4.0,False,9.0
+STU00341,TestFirstName341 TestLastName341,Social Work,1.2,100.0,60.6,4.0,False,12.0
+STU00342,TestFirstName342 TestLastName342,Education,3.01,78.5,82.7,9.0,False,3.0
+STU00343,TestFirstName343 TestLastName343,Nursing,2.85,100.0,82.9,4.0,False,6.0
+STU00344,TestFirstName344 TestLastName344,Engineering,3.09,76.6,65.5,7.0,True,13.0
+STU00345,TestFirstName345 TestLastName345,Nursing,3.93,80.0,56.4,2.0,False,8.0
+STU00346,TestFirstName346 TestLastName346,Education,1.36,83.5,100.0,3.0,False,3.0
+STU00347,TestFirstName347 TestLastName347,Nursing,2.39,100.0,80.9,7.0,False,4.0
+STU00348,TestFirstName348 TestLastName348,Computer Science,3.21,90.8,61.8,8.0,False,16.0
+STU00349,TestFirstName349 TestLastName349,Psychology,1.69,67.4,91.5,5.0,False,8.0
+STU00350,TestFirstName350 TestLastName350,Social Work,3.83,92.5,73.0,4.0,True,3.0
+STU00351,TestFirstName351 TestLastName351,Engineering,3.06,72.6,70.4,3.0,False,14.0
+STU00352,TestFirstName352 TestLastName352,Business Administration,3.39,70.7,85.1,3.0,False,11.0
+STU00353,TestFirstName353 TestLastName353,Computer Science,2.4,91.6,51.7,5.0,False,10.0
+STU00354,TestFirstName354 TestLastName354,Arts & Humanities,3.37,78.5,81.3,3.0,False,17.0
+STU00355,TestFirstName355 TestLastName355,Social Work,3.55,82.2,100.0,3.0,False,8.0
+STU00356,TestFirstName356 TestLastName356,Business Administration,2.96,78.2,83.4,6.0,False,12.0
+STU00357,TestFirstName357 TestLastName357,Computer Science,2.96,83.0,68.2,4.0,False,14.0
+STU00358,TestFirstName358 TestLastName358,Business Administration,2.99,84.4,65.9,6.0,False,12.0
+STU00359,TestFirstName359 TestLastName359,Engineering,2.2,48.9,67.6,2.0,False,6.0
+STU00360,TestFirstName360 TestLastName360,Social Work,2.7,88.0,70.4,3.0,False,13.0
+STU00361,TestFirstName361 TestLastName361,Business Administration,2.69,63.3,68.2,4.0,False,14.0
+STU00362,TestFirstName362 TestLastName362,Social Work,3.07,56.4,91.5,5.0,False,4.0
+STU00363,TestFirstName363 TestLastName363,Computer Science,3.5,77.1,43.8,1.0,False,5.0
+STU00364,TestFirstName364 TestLastName364,Education,2.06,79.3,90.5,5.0,False,13.0
+STU00365,TestFirstName365 TestLastName365,Nursing,2.71,67.6,68.2,8.0,False,4.0
+STU00366,TestFirstName366 TestLastName366,Arts & Humanities,3.84,90.5,81.8,13.0,False,17.0
+STU00367,TestFirstName367 TestLastName367,Engineering,2.28,57.9,54.7,8.0,False,4.0
+STU00368,TestFirstName368 TestLastName368,Nursing,2.22,71.9,98.9,6.0,False,18.0
+STU00369,TestFirstName369 TestLastName369,Business Administration,2.94,69.2,97.4,4.0,False,13.0
+STU00370,TestFirstName370 TestLastName370,Social Work,3.39,77.3,92.3,3.0,False,10.0
+STU00371,TestFirstName371 TestLastName371,Engineering,2.81,82.2,47.7,6.0,False,7.0
+STU00372,TestFirstName372 TestLastName372,Nursing,3.73,62.9,89.9,4.0,False,8.0
+STU00373,TestFirstName373 TestLastName373,Education,3.4,88.9,82.3,12.0,True,14.0
+STU00374,TestFirstName374 TestLastName374,Psychology,3.39,78.9,46.1,6.0,False,15.0
+STU00375,TestFirstName375 TestLastName375,Education,3.19,49.6,74.6,5.0,False,6.0
+STU00376,TestFirstName376 TestLastName376,Engineering,4.0,48.6,81.6,2.0,False,11.0
+STU00377,TestFirstName377 TestLastName377,Computer Science,2.66,77.8,85.0,6.0,False,18.0
+STU00378,TestFirstName378 TestLastName378,Computer Science,1.4,74.7,78.2,3.0,True,7.0
+STU00379,TestFirstName379 TestLastName379,Computer Science,3.92,76.4,80.2,6.0,False,14.0
+STU00380,TestFirstName380 TestLastName380,Psychology,2.48,77.6,100.0,3.0,False,5.0
+STU00381,TestFirstName381 TestLastName381,Psychology,2.88,81.4,97.1,7.0,False,16.0
+STU00382,TestFirstName382 TestLastName382,Education,3.72,92.2,23.4,7.0,False,5.0
+STU00383,TestFirstName383 TestLastName383,Arts & Humanities,1.68,61.3,69.3,5.0,False,7.0
+STU00384,TestFirstName384 TestLastName384,Business Administration,1.92,60.4,72.0,10.0,False,10.0
+STU00385,TestFirstName385 TestLastName385,Arts & Humanities,1.68,61.6,43.5,4.0,False,8.0
+STU00386,TestFirstName386 TestLastName386,Arts & Humanities,2.24,82.3,76.7,5.0,False,5.0
+STU00387,TestFirstName387 TestLastName387,Psychology,3.11,96.7,97.5,3.0,True,13.0
+STU00388,TestFirstName388 TestLastName388,Psychology,3.17,71.5,55.4,6.0,False,3.0
+STU00389,TestFirstName389 TestLastName389,Business Administration,2.99,40.5,81.1,2.0,False,18.0
+STU00390,TestFirstName390 TestLastName390,Business Administration,1.81,52.4,58.5,2.0,False,3.0
+STU00391,TestFirstName391 TestLastName391,Computer Science,1.18,65.5,62.9,3.0,False,8.0
+STU00392,TestFirstName392 TestLastName392,Education,2.84,69.6,100.0,8.0,True,17.0
+STU00393,TestFirstName393 TestLastName393,Engineering,2.47,71.9,65.2,6.0,False,5.0
+STU00394,TestFirstName394 TestLastName394,Business Administration,3.12,78.6,83.3,3.0,False,4.0
+STU00395,TestFirstName395 TestLastName395,Business Administration,3.29,73.3,41.3,10.0,True,14.0
+STU00396,TestFirstName396 TestLastName396,Computer Science,2.9,93.7,100.0,7.0,False,4.0
+STU00397,TestFirstName397 TestLastName397,Education,3.33,67.9,85.8,6.0,False,17.0
+STU00398,TestFirstName398 TestLastName398,Education,2.96,65.1,71.7,6.0,False,10.0
+STU00399,TestFirstName399 TestLastName399,Education,3.17,85.2,85.4,5.0,False,16.0
+STU00400,TestFirstName400 TestLastName400,Computer Science,2.31,55.0,49.6,2.0,False,6.0
+STU00401,TestFirstName401 TestLastName401,Computer Science,2.67,83.8,96.3,4.0,False,5.0
+STU00402,TestFirstName402 TestLastName402,Computer Science,2.94,79.5,69.2,6.0,True,18.0
+STU00403,TestFirstName403 TestLastName403,Social Work,3.37,75.8,71.3,6.0,False,15.0
+STU00404,TestFirstName404 TestLastName404,Education,2.52,100.0,66.2,3.0,False,17.0
+STU00405,TestFirstName405 TestLastName405,Nursing,3.16,68.7,64.5,3.0,False,8.0
+STU00406,TestFirstName406 TestLastName406,Computer Science,2.61,100.0,87.5,4.0,False,9.0
+STU00407,TestFirstName407 TestLastName407,Nursing,2.72,74.6,79.6,2.0,True,12.0
+STU00408,TestFirstName408 TestLastName408,Social Work,3.38,58.8,86.7,5.0,False,10.0
+STU00409,TestFirstName409 TestLastName409,Business Administration,1.4,79.0,74.8,2.0,False,6.0
+STU00410,TestFirstName410 TestLastName410,Social Work,1.89,61.9,84.2,6.0,False,9.0
+STU00411,TestFirstName411 TestLastName411,Engineering,1.76,66.7,67.5,1.0,False,12.0
+STU00412,TestFirstName412 TestLastName412,Business Administration,1.17,84.0,100.0,3.0,True,3.0
+STU00413,TestFirstName413 TestLastName413,Arts & Humanities,2.33,86.3,46.8,5.0,False,8.0
+STU00414,TestFirstName414 TestLastName414,Psychology,3.32,68.7,97.7,4.0,False,7.0
+STU00415,TestFirstName415 TestLastName415,Education,2.6,92.8,99.6,3.0,False,4.0
+STU00416,TestFirstName416 TestLastName416,Computer Science,2.94,95.4,59.7,3.0,False,4.0
+STU00417,TestFirstName417 TestLastName417,Nursing,3.56,99.5,100.0,6.0,False,10.0
+STU00418,TestFirstName418 TestLastName418,Education,3.73,85.9,92.9,8.0,False,4.0
+STU00419,TestFirstName419 TestLastName419,Education,2.75,98.5,92.5,7.0,False,8.0
+STU00420,TestFirstName420 TestLastName420,Computer Science,3.75,49.8,75.5,5.0,False,11.0
+STU00421,TestFirstName421 TestLastName421,Psychology,2.86,73.2,71.1,11.0,False,16.0
+STU00422,TestFirstName422 TestLastName422,Arts & Humanities,2.21,65.0,71.2,4.0,False,4.0
+STU00423,TestFirstName423 TestLastName423,Social Work,2.38,79.8,82.0,6.0,False,9.0
+STU00424,TestFirstName424 TestLastName424,Business Administration,1.76,69.4,100.0,1.0,False,4.0
+STU00425,TestFirstName425 TestLastName425,Arts & Humanities,2.18,75.5,78.3,5.0,False,9.0
+STU00426,TestFirstName426 TestLastName426,Education,2.55,100.0,58.6,7.0,False,10.0
+STU00427,TestFirstName427 TestLastName427,Computer Science,3.36,75.5,89.8,4.0,False,15.0
+STU00428,TestFirstName428 TestLastName428,Business Administration,4.0,84.2,91.6,6.0,False,10.0
+STU00429,TestFirstName429 TestLastName429,Arts & Humanities,1.83,74.5,86.8,6.0,True,17.0
+STU00430,TestFirstName430 TestLastName430,Business Administration,3.07,79.1,88.4,8.0,False,5.0
+STU00431,TestFirstName431 TestLastName431,Computer Science,2.07,78.1,70.1,8.0,False,3.0
+STU00432,TestFirstName432 TestLastName432,Engineering,3.13,84.7,58.3,9.0,True,3.0
+STU00433,TestFirstName433 TestLastName433,Psychology,2.71,95.5,59.4,6.0,False,8.0
+STU00434,TestFirstName434 TestLastName434,Psychology,1.52,100.0,45.6,3.0,False,6.0
+STU00435,TestFirstName435 TestLastName435,Education,3.45,82.6,79.3,6.0,False,4.0
+STU00436,TestFirstName436 TestLastName436,Arts & Humanities,2.38,86.8,73.5,1.0,False,6.0
+STU00437,TestFirstName437 TestLastName437,Social Work,2.43,60.7,67.1,3.0,False,18.0
+STU00438,TestFirstName438 TestLastName438,Computer Science,2.05,76.7,21.8,6.0,False,15.0
+STU00439,TestFirstName439 TestLastName439,Computer Science,2.34,92.1,52.5,9.0,False,3.0
+STU00440,TestFirstName440 TestLastName440,Computer Science,3.1,91.0,95.2,9.0,False,17.0
+STU00441,TestFirstName441 TestLastName441,Engineering,2.67,81.2,63.0,2.0,False,6.0
+STU00442,TestFirstName442 TestLastName442,Nursing,3.03,91.3,81.5,5.0,True,9.0
+STU00443,TestFirstName443 TestLastName443,Arts & Humanities,3.05,85.4,50.0,3.0,False,8.0
+STU00444,TestFirstName444 TestLastName444,Nursing,3.72,96.0,100.0,5.0,False,9.0
+STU00445,TestFirstName445 TestLastName445,Computer Science,2.56,82.3,72.4,2.0,True,15.0
+STU00446,TestFirstName446 TestLastName446,Arts & Humanities,1.77,72.7,80.2,4.0,False,14.0
+STU00447,TestFirstName447 TestLastName447,Nursing,3.55,83.0,100.0,3.0,False,12.0
+STU00448,TestFirstName448 TestLastName448,Arts & Humanities,2.57,34.0,100.0,3.0,False,13.0
+STU00449,TestFirstName449 TestLastName449,Social Work,3.58,83.7,69.5,4.0,False,14.0
+STU00450,TestFirstName450 TestLastName450,Arts & Humanities,3.07,23.3,64.3,4.0,False,5.0
+STU00451,TestFirstName451 TestLastName451,Social Work,2.71,52.1,69.1,3.0,False,9.0
+STU00452,TestFirstName452 TestLastName452,Business Administration,3.04,84.8,84.2,9.0,False,4.0
+STU00453,TestFirstName453 TestLastName453,Education,4.0,85.2,73.1,2.0,False,14.0
+STU00454,TestFirstName454 TestLastName454,Engineering,4.0,60.6,67.9,4.0,False,10.0
+STU00455,TestFirstName455 TestLastName455,Education,2.85,67.3,100.0,2.0,False,13.0
+STU00456,TestFirstName456 TestLastName456,Education,2.91,98.6,72.9,9.0,False,12.0
+STU00457,TestFirstName457 TestLastName457,Psychology,3.55,70.7,100.0,8.0,False,7.0
+STU00458,TestFirstName458 TestLastName458,Nursing,2.21,100.0,76.6,4.0,False,5.0
+STU00459,TestFirstName459 TestLastName459,Arts & Humanities,3.03,78.0,100.0,4.0,False,18.0
+STU00460,TestFirstName460 TestLastName460,Education,2.78,84.1,81.4,5.0,False,7.0
+STU00461,TestFirstName461 TestLastName461,Arts & Humanities,3.02,100.0,92.3,4.0,False,4.0
+STU00462,TestFirstName462 TestLastName462,Business Administration,2.22,80.0,62.0,7.0,True,7.0
+STU00463,TestFirstName463 TestLastName463,Social Work,1.69,63.0,59.6,6.0,False,17.0
+STU00464,TestFirstName464 TestLastName464,Nursing,1.35,76.4,83.3,2.0,False,7.0
+STU00465,TestFirstName465 TestLastName465,Engineering,2.02,77.5,92.8,8.0,False,18.0
+STU00466,TestFirstName466 TestLastName466,Social Work,2.48,57.5,75.7,2.0,False,10.0
+STU00467,TestFirstName467 TestLastName467,Nursing,2.59,74.2,51.8,5.0,False,16.0
+STU00468,TestFirstName468 TestLastName468,Nursing,4.0,66.9,50.5,3.0,True,13.0
+STU00469,TestFirstName469 TestLastName469,Arts & Humanities,3.57,91.9,49.3,3.0,True,3.0
+STU00470,TestFirstName470 TestLastName470,Arts & Humanities,2.13,78.5,43.2,7.0,False,11.0
+STU00471,TestFirstName471 TestLastName471,Nursing,3.04,73.8,77.0,4.0,False,9.0
+STU00472,TestFirstName472 TestLastName472,Nursing,2.52,76.4,95.3,8.0,False,6.0
+STU00473,TestFirstName473 TestLastName473,Business Administration,2.6,81.3,74.8,5.0,False,11.0
+STU00474,TestFirstName474 TestLastName474,Computer Science,2.93,87.3,34.3,4.0,False,4.0
+STU00475,TestFirstName475 TestLastName475,Psychology,3.23,63.0,71.6,5.0,False,14.0
+STU00476,TestFirstName476 TestLastName476,Nursing,2.56,62.4,72.1,6.0,False,16.0
+STU00477,TestFirstName477 TestLastName477,Social Work,3.54,94.6,100.0,5.0,True,4.0
+STU00478,TestFirstName478 TestLastName478,Business Administration,2.0,71.8,48.8,5.0,False,10.0
+STU00479,TestFirstName479 TestLastName479,Education,2.8,56.7,68.0,4.0,False,13.0
+STU00480,TestFirstName480 TestLastName480,Psychology,4.0,84.7,100.0,6.0,True,3.0
+STU00481,TestFirstName481 TestLastName481,Psychology,2.96,85.0,83.1,2.0,False,9.0
+STU00482,TestFirstName482 TestLastName482,Computer Science,3.8,55.0,85.1,3.0,False,7.0
+STU00483,TestFirstName483 TestLastName483,Engineering,2.86,81.4,77.1,0.0,False,3.0
+STU00484,TestFirstName484 TestLastName484,Education,3.21,89.0,80.9,4.0,False,15.0
+STU00485,TestFirstName485 TestLastName485,Nursing,2.76,83.6,89.0,3.0,False,10.0
+STU00486,TestFirstName486 TestLastName486,Social Work,2.68,87.5,60.4,2.0,False,15.0
+STU00487,TestFirstName487 TestLastName487,Psychology,2.25,56.9,90.8,7.0,False,12.0
+STU00488,TestFirstName488 TestLastName488,Nursing,3.1,83.0,50.3,2.0,False,17.0
+STU00489,TestFirstName489 TestLastName489,Computer Science,2.2,73.5,80.9,6.0,False,18.0
+STU00490,TestFirstName490 TestLastName490,Business Administration,3.27,70.8,78.2,5.0,False,12.0
+STU00491,TestFirstName491 TestLastName491,Engineering,3.56,91.1,63.9,3.0,False,8.0
+STU00492,TestFirstName492 TestLastName492,Engineering,3.06,100.0,74.6,6.0,False,9.0
+STU00493,TestFirstName493 TestLastName493,Social Work,2.6,100.0,63.8,5.0,False,16.0
+STU00494,TestFirstName494 TestLastName494,Social Work,3.12,97.7,55.7,4.0,False,9.0
+STU00495,TestFirstName495 TestLastName495,Business Administration,2.58,76.4,68.6,8.0,False,11.0
+STU00496,TestFirstName496 TestLastName496,Psychology,3.45,83.3,55.1,5.0,False,6.0
+STU00497,TestFirstName497 TestLastName497,Engineering,1.52,89.5,80.8,4.0,False,18.0
+STU00498,TestFirstName498 TestLastName498,Computer Science,2.57,79.8,54.3,3.0,False,13.0
+STU00499,TestFirstName499 TestLastName499,Education,1.41,80.0,87.8,4.0,False,8.0
+STU00500,TestFirstName500 TestLastName500,Psychology,1.75,90.4,53.7,5.0,False,12.0
