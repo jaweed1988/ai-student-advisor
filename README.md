@@ -112,4 +112,14 @@ Python · OpenAI GPT-4o · FastAPI · Streamlit · Plotly · pandas · pytest
 ---
 
 *Synthetic data only. Built for portfolio and learning purposes.*  
+*Project 3 of 100 — AI Engineering Journey*
 
+---
+
+## Disclaimers
+
+**AI Coding Assistance**  
+This project was built with the help of [Claude Code](https://claude.ai/code) by Anthropic. Claude Code assisted with code generation, debugging, and explanation throughout the development process. All code has been reviewed and the project is maintained by the repository owner.
+
+**Data Privacy**  
+This project uses a fully synthetic dataset. No real student data was used at any stage. If this system were deployed in a real institutional environment, all appropriate guardrails must be in place — including FERPA compliance (or regional equivalent), role-based access control, encryption at rest and in transit, PII anonymisation, audit logging, and strict API key management. Student data is sensitive and must be handled accordingly.
