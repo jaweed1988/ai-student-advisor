@@ -112,4 +112,4 @@ Python · OpenAI GPT-4o · FastAPI · Streamlit · Plotly · pandas · pytest
 ---
 
 *Synthetic data only. Built for portfolio and learning purposes.*  
-*Project 3 of 100 — AI Engineering Journey*
+
